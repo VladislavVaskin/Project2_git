@@ -7,7 +7,6 @@ public class MainAppStudy {
         System.out.println("Hello world!");
         System.out.println("Hello my favorit world!!!");
         System.out.println("Hello fackin my favorit world! AGAIN!");
-        System.out.println("NEW LINE");
-        System.out.println("NEW LINE");
+        System.out.println("NEW LINE. Changed");
     }
 }
