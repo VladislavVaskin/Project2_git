@@ -7,7 +7,12 @@ public class Box {
     public int getSize() {
         return size;
     }
-public void setSize(int size) {
+
+    public void setSize(int size) {
+        this.size = size;
+    }
+
+    public Box(int size) {
         this.size = size;
     }
 }
