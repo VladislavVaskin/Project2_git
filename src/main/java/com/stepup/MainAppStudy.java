@@ -9,5 +9,6 @@ public class MainAppStudy {
         System.out.println("Hello");
         System.out.println("NEW LINE");
         System.out.println("NEW LINE");// TODO new code for feature 2
+
     }
 }
